@@ -1,5 +1,4 @@
-0.1. References
-0.2. Other cheatsheets
+
 0.3. Manage multiple gcloud config configurations
 0.3.1. Switch gcloud context with gcloud config
 0.4. Credentials
